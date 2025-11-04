@@ -20,5 +20,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tolpa-999&show_icons=true&locale=en&layout=compact" alt="tolpa-999" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tolpa-999&" alt="tolpa-999" /></p>
+📈 my github stats
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tolpa-999&show_icons=true&theme=gotham" alt="tolpa-999" />
