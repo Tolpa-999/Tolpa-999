@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋, I'm Mahmud Tolpa!</h1>
+<h1 align="center">Hi There<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">, I'm Mahmud Tolpa!</h1>
 <h3 align="center">👨‍💻 Software Engineer | Full Stack Developer (Express.js & Next.js)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tolpa-999" alt="tolpa-999" /></a> </p>
