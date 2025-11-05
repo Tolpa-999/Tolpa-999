@@ -4,7 +4,7 @@
   Hey there, I'm <span style="color:#1E90FF;">Mahmud Tolpa</span> 👋
 </h1>
 
-<h3 align="center">Full Stack Developer | Clean Architecture Enthusiast | Problem Solver</h3>
+<h3 align="center"> Software Engineer | Full Stack Developer (Node.js | Next.js)</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding animation">
@@ -13,48 +13,54 @@
 ---
 
 ## 🧠 About Me
-<p align="center">
-🎓 <strong>Computer Science student</strong> at South Valley University  
-💼 Currently <strong>Full Stack Developer</strong> at <strong>Age Language Company</strong>  
-🏗️ Passionate about <strong>scalable, user-focused applications</strong>  
-🧩 I specialize in <strong>Clean Architecture, SOLID Principles</strong>, and robust backend design  
+<h4 >
+🎓 <strong>4th Year Computer Science student</strong> at Modern Academy  
+  <br/>
+💼 Currently <strong>Full Stack Developer</strong> as <strong>Full Time Freelnacer </strong>  
+  <br/>
+🏗️ Passionate about <strong>scalable, user-focused web app solutions</strong>  
+  <br/>
+🧩 I specialize in <strong> SOLID Principles, Secure, Fast Performance</strong>, and robust backend design  
+  <br/>
 💡 Always exploring new tools, cloud services, and patterns to refine engineering quality  
+  <br/>
 🎯 <i>Mission:</i> Build real-world products that make tech beautifully simple  
-</p>
+</h4>
 
 ---
 
 ## ⚙️ What I Do
 
-<p align="center">
+<h4  >
 🔧 Build full-stack apps using modern technologies <br/>
 🎨 Design responsive, accessible, pixel-perfect UIs <br/>
 🏗️ Architect modular backends following best practices <br/>
 🗄️ Optimize databases for performance and maintainability <br/>
 🤝 Mentor and guide other developers on software craftsmanship
-</p>
+</h4>
 
 ---
 
 ## 🛠️ My Tech Stack
 
-### 🎨 Frontend
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer,bootstrap" />
+  ### 🎨 Frontend
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend
 <p align="center">
+  ### ⚙️ Backend
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,graphql,prisma" />
 </p>
 
-### 🗄️ Database & Infrastructure
 <p align="center">
+  ### 🗄️ Database & Infrastructure
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws" />
 </p>
 
-### 🧰 Tools & Workflow
 <p align="center">
+  ### 🧰 Tools & Workflow
   <img src="https://skillicons.dev/icons?i=git,linux,vscode,postman,figma,notion" />
 </p>
 
@@ -62,12 +68,12 @@
 
 ## 💼 Experience
 
-### 🏢 Full Stack Developer — Age Language Company  
-📅 <i>Nov 2024 – Present | Remote</i>  
-- Built and optimized a custom **LMS platform** for online courses  
-- Integrated advanced attendance & scheduling features using Laravel  
-- Improved system performance and database efficiency by 40%  
-- Maintained scalable codebases aligned with **SOLID & Clean Architecture**
+### 🏢 Full Stack Developer — EdTech Platform  
+📅 <i>August 2024 – Nov 2024 | Remote</i>  
+- Built and launched a real EdTech learning platform (UR DOC). 
+- Secured backend authentication with JWT + Redis..  
+- Delivered a fast, responsive Next.js frontend with streamed video content.  
+- Handled full VPS deployment & production setup.
 
 ---
 
@@ -82,14 +88,12 @@
 ## 🎓 Education
 
 **B.Sc. in Computer Science** — Faculty of Computers & Information  
-🕒 <i>South Valley University | 2021 – 2025</i>
+🕒 <i>Modern Academy University | 2021 – 2026</i>
 
 ### 📜 Certifications
 - 🏆 PHP Web Developer Track — MCIT (2024)  
 - 💻 PHP & MySQL — ITI Qena (2023)  
 - 🎨 Web Design — NTI (2022–2023)  
-- 🤖 AI Summer Training — ITIDA & NTI (2022)
-
 ---
 
 ## 📊 GitHub Insights
