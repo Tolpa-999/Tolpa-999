@@ -13,7 +13,7 @@
 ---
 
 ## 🧠 About Me
-<h4 >
+<h6 >
 🎓 <strong>4th Year Computer Science student</strong> at Modern Academy  
   <br/>
 💼 Currently <strong>Full Stack Developer</strong> as <strong>Full Time Freelnacer </strong>  
@@ -25,37 +25,38 @@
 💡 Always exploring new tools, cloud services, and patterns to refine engineering quality  
   <br/>
 🎯 <i>Mission:</i> Build real-world products that make tech beautifully simple  
-</h4>
+</h6>
 
 ---
 
 ## ⚙️ What I Do
 
-<h4  >
+<h6>
 🔧 Build full-stack apps using modern technologies <br/>
 🎨 Design responsive, accessible, pixel-perfect UIs <br/>
 🏗️ Architect modular backends following best practices <br/>
 🗄️ Optimize databases for performance and maintainability <br/>
 🤝 Mentor and guide other developers on software craftsmanship
-</h4>
+</h6>
 
 ---
 
 ## 🛠️ My Tech Stack
 
 
+<p aling="center"> ### 🎨 Frontend</p>
 <p align="center">
-  ### 🎨 Frontend
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
+<p aling="center"> ### ⚙️ Backend</p>
 <p align="center">
-  ### ⚙️ Backend
+ 
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,graphql,prisma" />
 </p>
 
+<p aling="center">### 🗄️ Database & Infrastructure</p>
 <p align="center">
-  ### 🗄️ Database & Infrastructure
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws" />
 </p>
 
@@ -69,7 +70,7 @@
 ## 💼 Experience
 
 ### 🏢 Full Stack Developer — EdTech Platform  
-📅 <i>August 2024 – Nov 2024 | Remote</i>  
+📅 <i>August 2025 – Nov 2025 | Remote</i>  
 - Built and launched a real EdTech learning platform (UR DOC). 
 - Secured backend authentication with JWT + Redis..  
 - Delivered a fast, responsive Next.js frontend with streamed video content.  
@@ -77,8 +78,8 @@
 
 ---
 
-### 🎓 Front-End Instructor — Support Organization, SVU  
-📅 <i>Oct 2023 – Feb 2024</i>  
+### 🎓 Front-End Instructor — Studen Activity  
+📅 <i>Oct 2024 – Dec 2024</i>  
 - Taught HTML, CSS, and responsive web design to junior students  
 - Conducted live-coding sessions and hands-on workshops  
 - Mentored students to transition from basic coding to real projects  
@@ -91,9 +92,9 @@
 🕒 <i>Modern Academy University | 2021 – 2026</i>
 
 ### 📜 Certifications
-- 🏆 PHP Web Developer Track — MCIT (2024)  
-- 💻 PHP & MySQL — ITI Qena (2023)  
-- 🎨 Web Design — NTI (2022–2023)  
+- 🏆 Backend Development (node.js | Express) — CodeZone (2024)  
+- 💻 Database with SQL — Programming Advices (2024)  
+- 🎨 Frontend Engineering with React — Manar (2023)  
 ---
 
 ## 📊 GitHub Insights
