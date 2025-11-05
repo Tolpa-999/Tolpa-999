@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- 🎓 4th Year Computer Science student — Modern Academy  
+# - 🎓 4th Year Computer Science student — Modern Academy  
 - 💼 Full-time Freelance Full Stack Developer  
 - 🏗️ Passionate about scalable & secure architectures  
 - ⚡ Focused on SOLID principles & fast user-experience  
