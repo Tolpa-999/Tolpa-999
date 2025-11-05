@@ -14,11 +14,14 @@
 
 ## 🧠 About Me
 
+<div style="font-size: 23px; line-height: 1.7;">
+
 - 🎓 4th Year Computer Science student — Modern Academy  
 - 💼 Full-time Freelance Full Stack Developer  
 - 🏗️ Passionate about scalable & secure architectures  
 - ⚡ Focused on SOLID principles & fast user-experience  
 - 🎯 Building real products that solve real needs  
+</div>
 
 ---
 
