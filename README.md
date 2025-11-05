@@ -12,49 +12,37 @@
 
 ---
 
-## 🧠 About Me
-<h6>
-🎓 4th Year Computer Science student at Modern Academy  
-💼 Full Stack Developer — Full-time Freelancer  
-🏗️ Passionate about scalable & secure system architecture  
-⚡ Focused on SOLID principles, performance, and optimized user experience  
-🎯 Driven to build real products that impact real users  
-</h6>
+🧠 About Me
+
+🎓 4th Year Computer Science student — Modern Academy
+
+💼 Full-time Freelance Full Stack Developer
+
+🏗️ Passionate about secure, scalable system architecture
+
+⚡ Focused on SOLID principles & high-performance UX
+
+🎯 Building real products for real users
 
 ---
 
-## ⚙️ What I Do
-<h6>
-🔧 Build complete full-stack applications  
-🎨 Craft responsive, polished UI experiences  
-🛠️ Architect robust backends with clean APIs  
-🗄️ Optimize databases for reliability & speed  
-🤝 Mentor developers & run hands-on workshops  
-</h6>
+⚙️ What I Do
+
+🔧 Develop complete production-grade full-stack apps
+
+🎨 Build responsive, accessible, polished interfaces
+
+🛠️ Architect clean and reliable backend systems
+
+🗄️ Tune database performance & data integrity
+
+🤝 Mentor students and deliver coding workshops
 
 ---
 
 ## 🛠️ My Tech Stack
 
-<div align="center"><b>🎨 Frontend</b></div>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=light">
-</p>
-
-<div align="center"><b>⚙️ Backend</b></div>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,graphql,prisma&theme=light">
-</p>
-
-<div align="center"><b>🗄️ Database & Infrastructure</b></div>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws&theme=light">
-</p>
-
-<div align="center"><b>🧰 Tools & Workflow</b></div>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode,postman,figma,notion&theme=light">
-</p>
+<div align="center"><b>🎨 Frontend</b></div> <p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> </p> <div align="center"><b>⚙️ Backend</b></div> <p align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/> </p> <div align="center"><b>🗄️ Database & Infrastructure</b></div> <p align="center"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> </p> <div align="center"><b>🧰 Tools & Workflow</b></div> <p align="center"> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> </p>
 
 ---
 
@@ -92,18 +80,21 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tolpa-999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  <img width="49%" src="https://streak-stats.demolab.com?user=tolpa-999&theme=tokyonight&hide_border=true">
-</p>
-
-<!-- ✅ Most Used Languages ✅ -->
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolpa-999&layout=compact&theme=tokyonight&hide_border=true">
+  <!-- Stats Card -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tolpa-999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
+  <!-- Streak Card -->
+  <img width="49%" src="https://streak-stats.demolab.com?user=tolpa-999&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tolpa-999&theme=tokyo-night&hide_border=true&area=true">
+  <!-- Languages -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolpa-999&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <!-- Activity Graph -->
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=tolpa-999&theme=tokyo-night&hide_border=true&area=true" />
 </p>
+
 
 ---
 
