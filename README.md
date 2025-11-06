@@ -18,7 +18,7 @@
 
 - 🎓 4th Year Computer Science student — Modern Academy  
 - 💼 Full-time Freelance Full Stack & Mobile Developer  
-- 📱 Experienced in cross-platform apps using **React Native & Expo**  
+- 📱 Small apps in cross-platform apps using **React Native & Expo**  
 - 🏗️ Passionate about scalable, secure, and user-centered architectures  
 - ⚡ Focused on SOLID principles & seamless user experience across web and mobile  
 - 🎯 Building real products that solve real-world problems  
