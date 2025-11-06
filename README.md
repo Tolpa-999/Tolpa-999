@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <h1 align="center">
   <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px">
-  Hey there, I'm <span style="color:#1E90FF;">Mahmud Tolpa! </span> 
+  Hey there, I'm <span style="color:#1E90FF;">Mahmud Tolpa!</span>
 </h1>
 
-<h2 align="center">Software Engineer | Full Stack Developer (Node.js • Next.js)</h2>
+<h2 align="center">Software Engineer | Full Stack & Mobile Developer (Node.js • Next.js • React Native)</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480">
@@ -17,35 +17,35 @@
 <div style="font-size: 23px; line-height: 1.7;">
 
 - 🎓 4th Year Computer Science student — Modern Academy  
-- 💼 Full-time Freelance Full Stack Developer  
-- 🏗️ Passionate about scalable & secure architectures  
-- ⚡ Focused on SOLID principles & fast user-experience  
-- 🎯 Building real products that solve real needs  
+- 💼 Full-time Freelance Full Stack & Mobile Developer  
+- 📱 Experienced in cross-platform apps using **React Native & Expo**  
+- 🏗️ Passionate about scalable, secure, and user-centered architectures  
+- ⚡ Focused on SOLID principles & seamless user experience across web and mobile  
+- 🎯 Building real products that solve real-world problems  
 </div>
 
 ---
 
 ## ⚙️ What I Do
 
-- 🔧 Build complete full-stack products in production  
-- 🎨 Craft responsive, accessible & modern UIs  
-- 🛠️ Architect modular clean backend APIs  
-- ⚙️ CI-ready deployments with performant databases  
-- 🏆 Deliver solutions that scale with business needs  
+- 🔧 Build production-ready **web & mobile applications**  
+- 🎨 Craft responsive, accessible & modern UIs with **React / React Native**  
+- 🛠️ Architect modular backend APIs using **Node.js & Express**  
+- ⚙️ CI/CD deployments, VPS setup, and database optimization  
+- 🏆 Deliver performant and scalable full-stack solutions  
 
 ---
 
 ## 🛠️ My Tech Stack
 
-<div align="center"><h3><strong>🎨 Frontend</strong></h3></div>
+<div align="center"><h3><strong>🎨 Frontend / Mobile</strong></h3></div>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
 </p>
 
 <div align="center"><h3><strong>⚙️ Backend</strong></h3></div>
@@ -60,18 +60,20 @@
 <div align="center"><h3><strong>🗄️ Database & Infrastructure</strong></h3></div>
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/VPS-0078D4?style=for-the-badge&logo=linux&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 </p>
 
 <div align="center"><h3><strong>🧰 Tools & Workflow</strong></h3></div>
 <p align="center">
+  <img src="https://img.shields.io/badge/Expo_CLI-000020?style=for-the-badge&logo=expo&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp;
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">&nbsp;
-  <!-- <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white">&nbsp; -->
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp;
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </p>
 
@@ -81,18 +83,26 @@
 
 ### 🏢 Full Stack Developer — EdTech Platform (UR DOC)
 📅 <i>Aug 2025 – Nov 2025 | Remote</i>  
-- Developed a production-ready learning platform  
-- Enforced secure single-device login using **JWT + Redis**  
-- Optimized video streaming & UI speed using **Next.js**  
-- Fully configured & deployed to a **VPS on Nginx + SSL**
+- Built a full-stack learning platform for students  
+- Integrated **JWT + Redis** for secure single-device login  
+- Optimized **Next.js** performance and video streaming  
+- Configured and deployed to **VPS (Nginx + SSL)** manually  
+
+---
+
+### 📱 Mobile Developer — Freelance Projects
+📅 <i>Jan 2025 – Jun 2025 | Feb 2025</i>  
+- Developed cross-platform simple mobile apps using **React Native + Expo**  
+- Built REST APIs for real-time communication and authentication  
+- Published apps using **Expo Go**  
 
 ---
 
 ### 🎓 Front-End Instructor — Student Activity
 📅 <i>Oct 2024 – Dec 2024</i>  
-- Trained students in web fundamentals & UX  
-- Hosted live coding workshops  
-- Guided beginners to launch real-world projects  
+- Trained students in modern web development  
+- Hosted live coding sessions and workshops  
+- Mentored teams to ship production-ready apps  
 
 ---
 
@@ -104,7 +114,7 @@
 ### 📜 Certifications
 ✅ Backend Development — CodeZone (2024)  
 ✅ SQL Database Engineering — Programming Advices (2024)  
-✅ React Frontend Engineering — Manar (2023)  
+✅ React Engineering — Manara (2023)  
 
 ---
 
@@ -127,9 +137,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmud-tolpa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mahmudtolpa666@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/201015502780"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  <!-- <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a> -->
+  <a href="https://wa.me/201015502780"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
 ---
