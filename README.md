@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">
   <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px">
-  Hey there, I'm <span style="color:#1E90FF;">Mahmud Tolpa</span> 👋
+  Hey there, I'm <span style="color:#1E90FF;">Mahmud Tolpa! </span> 
 </h1>
 
 <h2 align="center">Software Engineer | Full Stack Developer (Node.js • Next.js)</h2>
