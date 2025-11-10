@@ -79,7 +79,7 @@
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### 🏢 Full Stack Developer — EdTech Platform (UR DOC)
 📅 <i>Aug 2025 – Nov 2025 | Remote</i>  
